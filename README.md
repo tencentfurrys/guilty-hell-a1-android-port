@@ -63,7 +63,4 @@ Re-rip from your own copy using [`scripts/rip.ps1`](scripts/rip.ps1).
 - PowerShell 7 on Windows
 
 ## Licence / provenance
-
-No game code or assets are stored here. Analysis notes only.
-The game remains the property of its developers; this is interoperability research
-on software the operator owns.
+game didn't upload in time
