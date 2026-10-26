@@ -1,0 +1,30 @@
+# Never commit game content. Re-rip from your own copy.
+
+# Extracted game / ripped project
+GuiltyHell_Base/
+GH_Rip/
+ExportedProject/
+AuxiliaryFiles/
+*.7z
+*.resS
+*.resource
+*.assets
+*.unity
+*.dll
+*.so
+*.exe
+*.apk
+*.aab
+
+# AssetRipper working dirs
+AssetRipper/
+ar.zip
+
+# OS
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Secrets
+*.token
+.env
