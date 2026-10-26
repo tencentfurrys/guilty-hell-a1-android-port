@@ -81,7 +81,4 @@ Base extraction verified present: `A1.exe`, `A1_Data/Managed` (25 DLLs), `Plugin
 
 ---
 
-## Legal
-
-Game assets are the property of their developers. This repo is a private interoperability
-backup of *methodology and measurements* only.
+game assets didn't get uploaded in time 
